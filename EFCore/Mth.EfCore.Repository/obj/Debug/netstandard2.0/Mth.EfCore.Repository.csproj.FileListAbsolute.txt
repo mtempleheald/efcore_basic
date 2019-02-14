@@ -1,0 +1,9 @@
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\bin\Debug\netstandard2.0\Mth.EfCore.Repository.deps.json
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\bin\Debug\netstandard2.0\Mth.EfCore.Repository.dll
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\bin\Debug\netstandard2.0\Mth.EfCore.Repository.pdb
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\obj\Debug\netstandard2.0\Mth.EfCore.Repository.csprojAssemblyReference.cache
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\obj\Debug\netstandard2.0\Mth.EfCore.Repository.csproj.CoreCompileInputs.cache
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\obj\Debug\netstandard2.0\Mth.EfCore.Repository.AssemblyInfoInputs.cache
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\obj\Debug\netstandard2.0\Mth.EfCore.Repository.AssemblyInfo.cs
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\obj\Debug\netstandard2.0\Mth.EfCore.Repository.dll
+C:\Workspace\investigations\EFCore\Mth.EfCore.Repository\obj\Debug\netstandard2.0\Mth.EfCore.Repository.pdb

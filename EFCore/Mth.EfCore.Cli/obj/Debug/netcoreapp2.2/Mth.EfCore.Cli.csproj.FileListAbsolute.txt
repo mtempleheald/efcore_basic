@@ -1,0 +1,14 @@
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.csprojAssemblyReference.cache
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.csproj.CoreCompileInputs.cache
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.AssemblyInfoInputs.cache
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.AssemblyInfo.cs
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Cli.deps.json
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Cli.runtimeconfig.json
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Cli.runtimeconfig.dev.json
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Cli.dll
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Cli.pdb
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Repository.dll
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\bin\Debug\netcoreapp2.2\Mth.EfCore.Repository.pdb
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.csproj.CopyComplete
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.dll
+C:\Workspace\investigations\EFCore\Mth.EfCore.Cli\obj\Debug\netcoreapp2.2\Mth.EfCore.Cli.pdb
